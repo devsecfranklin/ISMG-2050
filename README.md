@@ -9,3 +9,4 @@
 
 - [Introduction to Business Problem Solving Spring 2008](http://dawngregg.com/ucd/course_info/ismg2050.html)
 - [ISMG-2050 short videos](https://www.youtube.com/playlist?list=PL9rLShvryjQqU4Nd2jnMa2oY3eQVlqFk-)
+- [NotebookLM Chat for ISMG-2050](https://notebooklm.google.com/notebook/b89d4392-921d-47cc-9ab9-28c08613acc4)
